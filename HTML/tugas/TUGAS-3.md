@@ -11,26 +11,31 @@
 
 5. Buat sebuah form dengan method `POST` dan action kosong
 
-6. Buat sebuah inputan teks dengan label `Username`, berisi nama `username`, panjang minimal 5 dan maksimal 25 karakter, wajib diisi dan autofocus
+    - Buat sebuah inputan teks dengan label `Username`, berisi nama `username`, panjang minimal 5 dan maksimal 25 karakter, wajib diisi dan autofocus
 
-7. Buat sebuah inputan password dengan label `Password`, berisi nama `password`, wajib diisi dan memiliki _placeholder_ dengan teks 'Isikan password'
+    - Buat sebuah inputan password dengan label `Password`, berisi nama `password`, wajib diisi dan memiliki _placeholder_ dengan teks 'Isikan password'
 
-8. Buat sebuah inputan panjang dengan label `Pesan`, berisi nama `pesan`, memiliki isi/nilai 'Ini contoh pesan' dan hanya bisa dibaca, tidak bisa diedit
+    - Buat sebuah inputan panjang dengan label `Pesan`, berisi nama `pesan`, memiliki isi/nilai 'Ini contoh pesan' dan hanya bisa dibaca, tidak bisa diedit
 
-9. Buat sebuah inputan pilihan dengan label `Jenis Kelamin`, dengan elemen pertama Laki-laki dan yang kedua Perempuan, keduanya memiliki nama `jenis_kelamin`
+    - Buat sebuah inputan pilihan dengan label `Jenis Kelamin`, dengan elemen pertama Laki-laki dan yang kedua Perempuan, keduanya memiliki nama `jenis_kelamin`
 
-10. Buat sebuah cek list dengan label `Minat`, dengan nama 'minat', berisi elemen `coding, mancing, berenang, futsal dan camping`
+    - Buat sebuah cek list dengan label `Minat`, dengan nama 'minat', berisi elemen `coding, mancing, berenang, futsal dan camping`
 
-11. Buat sebuah button reset dengan value 'Reset' damn button submit dengan value `Kirim`
+    - Buat sebuah selectbox dengan label `Bidang`, dengan nama 'bidang', berisi option `backend, frontend, fullstack, ui/ux dan android`    
 
-12. Ubah tampilan form menggunakan css sesuai dengan kreatifitas masing-masing
+    - Buat sebuah button reset dengan value 'Reset' dan button submit dengan value `Kirim`
 
-13. Embed video dari Youtube dengan konten video pertemuan sebelumnya 
+    > Referensi: _HTML Forms_
 
-14. Embed profil facebook dari akun masing-masing
+6. Ubah tampilan form menggunakan css sesuai dengan kreatifitas masing-masing
 
-15. Embed salah foto dari akun instagram masing-masing
+7. Embed video dari Youtube dengan konten video pertemuan sebelumnya, diatasnya tambahkan tag `<h3>` dengan isi `Akun Youtube`
+    > Referensi: _HTML Youtube_
 
-### Catatan
+8. Embed profil facebook dari akun masing-masing, diatasnya tambahkan tag `<h3>` dengan isi `Akun Facebook`
+
+9. Embed salah foto dari akun instagram masing-masing, diatasnya tambahkan tag `<h3>` dengan isi `Akun Instagram`
+
+### Catatan 
 - Tugas yang sudah selesai langsung disetorkan ke mentor untuk dicek
 - Tugas dikumpul maksimal sehari sebelum kelas dilaksanakan
